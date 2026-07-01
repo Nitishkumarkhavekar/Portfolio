@@ -1,0 +1,14 @@
+[
+  {
+    "role": "DATA ANALYST INTERN",
+    "company": "KAMJRITZTEX IT SOLUTIONS",
+    "duration": "Jun 2025 – Dec 2025",
+    "location": "Pune, MH",
+    "description": "Collaborated with business units to drive operational analytics and design pipeline reporting frameworks.",
+    "highlights": [
+      "Analyzed data from 3 critical business modules to identify workflow bottlenecks and performance trends, driving process improvements that increased operational efficiency by 30%.",
+      "Developed and optimized SQL queries for data extraction, validation, and analysis, reducing data retrieval and reporting time by 25%.",
+      "Developed automated data pipelines and analytics dashboards to extract, transform, and monitor business KPIs — providing the data infrastructure foundation for predictive modeling and ML feature engineering workflows."
+    ]
+  }
+]

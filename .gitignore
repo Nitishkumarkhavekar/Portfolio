@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Streamlit logs
+.streamlit/config.toml.bak
+
+# Local portfolio data that changes
+data/visitor_counter.txt
+data/contact_messages.json

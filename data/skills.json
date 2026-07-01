@@ -1,0 +1,27 @@
+{
+  "Data Analytics": [
+    {"name": "Excel (Advanced, VBA)", "level": 90},
+    {"name": "SQL (MySQL, PostgreSQL)", "level": 88},
+    {"name": "Power BI (DAX, Modeling)", "level": 85},
+    {"name": "Tableau Dashboards", "level": 80}
+  ],
+  "Programming": [
+    {"name": "Python", "level": 92},
+    {"name": "Pandas", "level": 90},
+    {"name": "NumPy", "level": 85},
+    {"name": "Matplotlib & Seaborn", "level": 88},
+    {"name": "Scikit-Learn", "level": 85}
+  ],
+  "AI/ML": [
+    {"name": "Machine Learning Algorithms", "level": 88},
+    {"name": "Deep Learning (ANN, CNN, RNN)", "level": 75},
+    {"name": "NLP (Natural Language Processing)", "level": 80},
+    {"name": "OpenAI API & RAG", "level": 85},
+    {"name": "TensorFlow & Keras", "level": 72}
+  ],
+  "Tools": [
+    {"name": "Git & GitHub", "level": 85},
+    {"name": "VS Code", "level": 90},
+    {"name": "Jupyter Notebooks", "level": 92}
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Advance Certificate in Data Science",
+    "organization": "upGrad",
+    "date": "2026",
+    "link": "https://upgrad.com",
+    "skills": ["Data Science", "Python", "Machine Learning", "Data Analysis"]
+  },
+  {
+    "name": "E-commerce Customer Review Analytics Mentorship",
+    "organization": "Snapdeal & upGrad",
+    "date": "2026",
+    "link": "https://upgrad.com",
+    "skills": ["E-commerce Analytics", "Customer Reviews", "NLP", "Sentiment Analysis"]
+  },
+  {
+    "name": "Computer Aided Monitoring System for Alzheimer's Disease Based on MRI Images (Paper Publication)",
+    "organization": "International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)",
+    "date": "June 2024",
+    "link": "assets/certificates/publication.pdf",
+    "skills": ["Research Paper Publication", "Alzheimer's Monitoring", "Machine Learning", "MRI Image Analysis"]
+  },
+  {
+    "name": "Android Developer Course - Android Fundamentals",
+    "organization": "Infosys Wingspan",
+    "date": "December 2023",
+    "link": "assets/certificates/andriod.pdf",
+    "skills": ["Android Fundamentals", "Mobile Development", "Software Engineering"]
+  },
+  {
+    "name": "10in1 Full Stack Developer Certification Course",
+    "organization": "Digital Online Courses Academy",
+    "date": "July 2024",
+    "link": "assets/certificates/java.pdf",
+    "skills": ["Full Stack Development", "Python", "Java", "HTML & CSS", "React", "Node.js"]
+  },
+  {
+    "name": "Operating System Fundamentals",
+    "organization": "Department of Computer Science & Engineering",
+    "date": "March 2024",
+    "link": "assets/certificates/OS_Certificate.pdf",
+    "skills": ["Operating Systems", "Process Management", "Linux / Unix"]
+  },
+  {
+    "name": "Introduction to HTML",
+    "organization": "Sololearn",
+    "date": "April 2024",
+    "link": "assets/certificates/html.pdf",
+    "skills": ["HTML", "Web Development", "Frontend Fundamentals"]
+  },
+  {
+    "name": "Robo-Tech Workshop Certification",
+    "organization": "N. B. Navale Sinhgad College of Engineering",
+    "date": "April 2025",
+    "link": "assets/certificates/Robatics.pdf",
+    "skills": ["Robotics", "Workshop Training", "Collaborative Development"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "degree": "B.Tech in Computer Science and Engineering",
+    "college": "N B Navale Sinhgad College of Engineering",
+    "university": "Punyashlok Ahilyadevi Holkar Solapur University",
+    "year": "2021 - 2025",
+    "grade": "9.1 CGPA",
+    "description": "Acquired extensive knowledge in Software Engineering, Database Systems, Computer Networks, and Machine Learning. Developed multiple research and technical projects."
+  },
+  {
+    "degree": "Higher Secondary Education (Class XII)",
+    "college": "S.S.P.U Science College, Loni BK",
+    "university": "KSEEB (Karnataka Secondary Education Examination Board)",
+    "year": "2019 - 2021",
+    "grade": "88%",
+    "description": "Focused on Science subjects including Mathematics, Physics, Chemistry, and Computer Science."
+  },
+  {
+    "degree": "Secondary School Certificate (Class X)",
+    "college": "Daffodil English Medium School, Umadi",
+    "university": "MSBSHSE (Maharashtra State Board of Secondary and Higher Secondary Education)",
+    "year": "2018 - 2019",
+    "grade": "73%",
+    "description": "Completed general school curriculum with focus on science, mathematics, and languages."
+  }
+]
