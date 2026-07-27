@@ -50,12 +50,21 @@ ID: {cert.get('credential_id', 'N/A')}
                 import os
                 if os.path.exists(link_val):
                     with open(link_val, "rb") as f:
-                        pdf_bytes = f.read()
+                        file_bytes = f.read()
+                    
+                    # Dynamically set MIME type based on file extension
+                    ext = os.path.splitext(link_val)[1].lower()
+                    mime_type = "application/pdf"
+                    if ext == ".png":
+                        mime_type = "image/png"
+                    elif ext in [".jpg", ".jpeg"]:
+                        mime_type = "image/jpeg"
+                        
                     st.download_button(
                         label="📥 Download Certificate",
-                        data=pdf_bytes,
+                        data=file_bytes,
                         file_name=os.path.basename(link_val),
-                        mime="application/pdf",
+                        mime=mime_type,
                         key=f"cert_dl_{idx}",
                         use_container_width=True
                     )
