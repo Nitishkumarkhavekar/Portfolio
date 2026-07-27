@@ -41,7 +41,7 @@ except Exception:
         "full_name": "NITISHKUMAR KHAVEKAR",
         "title": "Data Analyst & AI/ML Engineer",
         "email": "khavekarnitishkumar@gmail.com",
-        "linkedin_url": "https://linkedin.com/in/nitishkumarkhavekar",
+        "linkedin_url": "https://www.linkedin.com/in/nitishkumar-khavekar",
         "github_url": "https://github.com/Nitishkumarkhavekar"
     }
 
